@@ -5,7 +5,7 @@ import SignUpSignIn from "./components/Signup";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/finance-tracker">
       <Routes>
         <Route path="/" element={<SignUpSignIn />} />
         <Route path="/dashboard" element={<Dashboard />} />
