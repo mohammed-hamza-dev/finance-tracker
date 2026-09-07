@@ -47,21 +47,21 @@ Tracker](https://mohammed-hamza-dev.github.io/finance-tracker/)**
 
 ## 🛠️ Tech Stack
 
-  Technology                Purpose
-  ------------------------- --------------------------------
-  React.js                  Frontend application
-  JavaScript                Application logic
-  HTML5                     Page structure
-  CSS3                      Styling
-  Firebase Authentication   User authentication
-  Firebase Firestore        Transaction data storage
-  Ant Design                UI components
-  Ant Design Charts         Financial charts
-  React Router              Application routing
-  PapaParse                 CSV import/export
-  React Toastify            User notifications
-  Git & GitHub              Version control and deployment
-  GitHub Pages              Application deployment
+| Technology | Purpose |
+|------------|---------|
+| React.js | Frontend application |
+| JavaScript | Application logic |
+| HTML5 | Page structure |
+| CSS3 | Styling |
+| Firebase Authentication | User authentication |
+| Firebase Firestore | Transaction data storage |
+| Ant Design | UI components |
+| Ant Design Charts | Financial charts |
+| React Router | Application routing |
+| PapaParse | CSV import/export |
+| React Toastify | User notifications |
+| Git & GitHub | Version control and deployment |
+| GitHub Pages | Application deployment |
 
 ## 📊 Dashboard
 
