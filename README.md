@@ -8,6 +8,24 @@ track income, expenses, balances, and transactions in one place.
 **[Open Finance
 Tracker](https://mohammed-hamza-dev.github.io/finance-tracker/)**
 
+## 📸 Screenshots
+
+### 🔐 Authentication
+
+<img src="screenshots/signup.png" alt="Finance Tracker Authentication" width="700"/>
+
+### 💰 Dashboard
+
+<img src="screenshots/dashboard.png" alt="Finance Tracker Dashboard" width="700"/>
+
+### 📊 Financial Analytics
+
+<img src="screenshots/charts.png" alt="Finance Tracker Financial Analytics" width="700"/>
+
+### 🧾 Transaction Management
+
+<img src="screenshots/transactions.png" alt="Finance Tracker Transactions" width="700"/>
+
 ## ✨ Features
 
 -   🔐 Email/password authentication with Firebase
